@@ -19,9 +19,9 @@ Rina-Cryptography est une application Java permettant de visualiser, crypter et 
 
 4. **Décryptage du Texte :** Cliquez sur "Décrypter" pour décrypter le texte avec la clé utilisée pour le cryptage.
 
-## Compilation
+## Compilation 
 
-1. Clonez ce dépôt : `git clone https://github.com/VotreNom/Rina-Cryptography.git`
+1. Clonez ce dépôt : `git clone https://github.com/Rinah-ranaivoson/Rina-Crypto.git`
 2. Utilisez Maven pour compiler le projet : `mvn clean compile assembly:single`
 
 ## Exécution
