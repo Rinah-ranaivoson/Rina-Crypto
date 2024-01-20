@@ -26,9 +26,9 @@ Rina-Cryptography est une application Java permettant de visualiser, crypter et 
 
 ## Exécution
 
-- Exécutez le JAR généré : `java -jar target/Rina-Cryptography-1.0-SNAPSHOT-jar-with-dependencies.jar`
+- Exécutez le JAR généré : `java -jar target/Rina-Crypto.jar`
 
-- Pour une utilisation conviviale sur Windows, utilisez le fichier .exe généré avec Launch4j.
+- Pour une utilisation conviviale sur Windows, exécutez le fichier Rina-Crypto.exe 
 
 ## Avertissement
 
@@ -36,4 +36,4 @@ Assurez-vous d'utiliser ce programme conformément aux lois locales et respectez
 
 ---
 
-*Ce projet a été développé par [Votre Nom] dans le cadre de [mentionner toute collaboration ou contexte particulier].*
+*Ce projet a été développé par [Rinah] dans le cadre d'un [projet de groupe en collaboration avec Judicael et Naly].*
